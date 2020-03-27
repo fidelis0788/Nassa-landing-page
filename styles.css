@@ -1,0 +1,19 @@
+body{
+    background-image: url("./nasa\ image.jpg");
+    background-color: grey;
+}
+main
+ section.nasa-image
+{
+     border: solid;
+     background-image: url("./nasa\ image.jpg");
+     background-size: 300px;
+     width: 500px;
+     height: 500px;
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position-x:center;
+}    
+   
+ 
+ 
